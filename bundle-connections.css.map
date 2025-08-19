@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "file": "bundle-supplement.css",
+  "file": "bundle-connections.css",
   "sources": [
     "../src/article/Figure.svelte",
     "../src/article/Spacer.svelte",
